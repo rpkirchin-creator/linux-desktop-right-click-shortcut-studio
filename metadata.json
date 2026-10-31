@@ -1,0 +1,6 @@
+{
+  "name": "Linux Desktop Right-Click Shortcut Studio",
+  "description": "Interactive Linux desktop simulator and installer generator to create right-click context menu shortcuts for apps, documents, and scripts across GNOME, KDE, Cinnamon, and XFCE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
